@@ -218,8 +218,8 @@ button:hover{
 
 .card{
   color:#000;
-  width: 350px;
-  height: 400px;
+  width: 400px;
+  height: 450px;
   border: 2px solid #ede5e3;
   margin: 1em;
   background-color:rgb(255, 250, 250) ;
@@ -242,6 +242,15 @@ button:hover{
   background-image: url(../img/ECOMMERCE-front.png);
   background-size: cover;
   border-radius: 20px;
+}
+
+.card-img-2{
+  width: 100%;
+  height: 180px;
+  background-image: url(../img/pi-food.png);
+  background-size: cover;
+  border-radius: 20px;
+
 }
 
 .card-title{
