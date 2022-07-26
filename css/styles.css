@@ -38,6 +38,12 @@ body {
   color: #ff9871;
   margin-top: -7px;
 }
+.mail{
+  margin-top: 6px;
+  margin-left: -350px;
+  font-size: 10px;
+}
+
 
 .navbar{
  display: flex ;
