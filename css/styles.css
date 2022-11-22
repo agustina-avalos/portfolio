@@ -222,7 +222,7 @@ button:hover{
   height: 450px;
   border: 2px solid #ede5e3;
   margin: 1em;
-  background-color:rgba(224, 219, 219, 0.575) ;
+  background-color:rgba(234, 230, 230, 0.651) ;
   border-radius: 20px;
 }
 
@@ -277,7 +277,6 @@ button:hover{
   display: flex;
   justify-content: center;
   margin: 1em;
-  background-color: #000;
 }
 
 
