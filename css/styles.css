@@ -141,7 +141,7 @@ button:hover{
   display: grid;
   grid-template-columns: repeat(10, 1fr);
   width: 100vw;
-  background-color:aliceblue;
+  background-color:rgb(247, 249, 251);
   align-items: center;
   color: #000;
   border: 1px solid #9871ff 
